@@ -6,6 +6,7 @@ During my work in the Tech Consulting domain, I have worked on data pre-processi
 
 I am incredibly passionate about data and analytics. I aspire to grow further in my career based on my strong analytical and communicational skills through Data analyst, Business analyst, Data Engineer roles in consulting and tech firms.
 
+📩 Contact me via LinkedIn: http://www.linkedin.com/in/karthik-r-patil
 
 PROGRAMMING LANGUAGES & TOOLS
 
