@@ -1,10 +1,14 @@
 ### Hi all 👋
 
-I am currently pursuing a Master's in Business Analytics at UIUC. I have worked as a Data Analyst in the data science and analytics team at KPMG Global Services (KGS) with clients and stakeholders across the US, UK, and Australia.
+Data analyst with more than 2 years of experience in the data science and analytics, finance, and tech consulting domain with fortune 100 companies like KPMG and Graybar. I have pursued a Master's in Business Analytics at UIUC with an academic excellence award.
 
-During my work in the Tech Consulting domain, I have worked on data pre-processing, exploratory data analysis, and descriptive and predictive analytics using Python and ML. I also built Power BI/ Tableau dashboards using various charts, visuals, and KPIs. I am proficient in SQL, Python, and R programming languages. As a budding analyst, I leverage my business acumen to make data-driven decisions.
+I have worked as a Data Analyst in the data science and analytics team at KPMG Global Services (KGS) with clients and stakeholders across the US, UK, and Australia. Further more, I have interned with Graybar company in the Advanced analytics team.
 
-I am incredibly passionate about data and analytics. I aspire to grow further in my career based on my strong analytical and communicational skills through Data analyst, Business analyst, Data Engineer roles in consulting and tech firms.
+I am proficient in data extraction , database querying, data mining,exploratory data analysis, data visualisation and dashboarding, and ML modeling using tools and technologies like Python, SQL, R, SAS, Power BI, and Tableau. I also have a strong background in ETL and visualization tools like Knime, Alteryx, Power BI, and Tableau. Additionally, I have strong hands-on experience with cloud and data lake platforms such as AWS and Data Bricks. Finally, I have extensive experience in data cleaning, manipulation, analysis, and predictive modeling. 
+Furthermore, I have utilised my data storytelling skills to gather and analyze large amounts of data to provide insights and recommendations to technical and non-technical stakeholders.
+
+I am incredibly passionate about data and analytics. I aspire to grow further in my career based on my strong analytical and communicational skills through Data analyst, Business analyst, and Data scientist roles in consulting, product and tech firms.
+
 
 📩 Contact me via LinkedIn: http://www.linkedin.com/in/karthik-r-patil
 
